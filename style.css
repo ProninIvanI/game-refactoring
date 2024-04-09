@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.stringField {
+    width: 150px;
+    height: 50px;
+    display: flex;
+}
+
+.cellField {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+}
+
+.btnOnField {
+    width: 48px;
+    height: 48px;
+    border: none;
+    background-color: white;
+}
+
+.imgOnBtn {
+    width: 48px;
+    height: 48px;
+}
+
+.formForMessage {
+    width: 100px;
+    height: 35px;
+    text-align: center;
+    border: 1px solid black;
+    margin-top: 5px;
+    margin-left: 25px;
+}
