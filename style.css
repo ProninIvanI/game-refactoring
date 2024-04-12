@@ -36,3 +36,26 @@
     margin-top: 5px;
     margin-left: 25px;
 }
+
+.areaCustomize {
+    width: auto;
+    height: auto;
+    margin: 5px;
+}
+
+.areaInput {
+    width: auto;
+    height: auto;
+    padding: 2px;
+    margin: 5px;
+}
+
+.labelStr {
+    padding-right: 5px;
+}
+
+.buttonSave {
+    margin: 5px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
